@@ -1,0 +1,72 @@
+.fondo{
+  background-color: #5d59a5;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.fondoazul{
+  background-color: #a4c5e9;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.letrastitulo{
+  color: #5d59a5;
+  text-shadow: 2px -2px #ffffff;
+  text-align: center;
+  border-bottom: thick solid #5d59a5;
+  margin: 0;
+}
+
+.cajablanca{
+  background-color: white;
+  text-align: justify;
+  padding-top: 3px;
+  padding-right: 3px;
+}
+
+/* clearfix*/
+.cajablanca:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+#fotoyogi{
+  border: thin solid;
+  padding: 0.5em;
+  float: left;
+  margin: 7px;
+
+}
+
+.image {
+  float: left;
+}
+
+
+.cajanaranja{
+  background-color: #f28226;
+  color: white;
+  text-align: left;
+  border: thick dashed white;
+  margin-left: 70px;
+  margin-right: 200px;
+  font-size: 20px;
+}
+
+.cajaverde{
+  color: black;
+  text-align: center;
+  background-image: url("images/verde.png");
+  margin-left: 120px;
+  margin-right: 250px;
+  font-size: 20px;
+}
+
+.cajamarron{
+  background-color: #b45421;
+  color: white;
+  border-left: thick solid white;
+  border-right: thick solid white;
+}
