@@ -2,12 +2,14 @@
   background-color: #5d59a5;
   margin-left: 25px;
   margin-right: 25px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .fondoazul{
   background-color: #a4c5e9;
-  padding-left: 2px;
-  padding-right: 2px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 .letrastitulo{
@@ -52,21 +54,26 @@
   border: thick dashed white;
   margin-left: 70px;
   margin-right: 200px;
-  font-size: 20px;
+  font-size: 23px;
 }
 
 .cajaverde{
   color: black;
   text-align: center;
   background-image: url("images/verde.png");
-  margin-left: 120px;
-  margin-right: 250px;
-  font-size: 20px;
+  margin-left: 110px;
+  margin-right: 150px;
+  border-radius: 0.5em;
+  font-size: 23px;
 }
 
 .cajamarron{
   background-color: #b45421;
   color: white;
+  text-align: left;
   border-left: thick solid white;
   border-right: thick solid white;
+  margin-left: 150px;
+  margin-right: 110px;
+  font-size: 23px;
 }
